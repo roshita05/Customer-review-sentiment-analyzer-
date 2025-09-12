@@ -3,8 +3,8 @@ import streamlit as st
 import pandas as pd
 from utils_bert import predict_sentiment
 
-st.set_page_config(page_title="Myntra Sentiment Analyzer", layout="centered")
-st.title("🛍 Myntra Customer Review Sentiment Analyzer (BERT)")
+st.set_page_config(page_title="Sentiment Analyzer", layout="centered")
+st.title("🛍 Customer Review Sentiment Analyzer (BERT)")
 
 st.write("Enter a single review below or upload a CSV of reviews to analyze sentiments.")
 
