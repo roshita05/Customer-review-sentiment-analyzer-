@@ -2,7 +2,8 @@
 
 A Streamlit web app that classifies Myntra customer reviews as Positive, Neutral, or Negative using a fine-tuned BERT model.
 
-[![Open in Streamlit](https://cust-review-analyzer.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cust-review-analyzer.streamlit.app/)
+
 
 
 ## Features
