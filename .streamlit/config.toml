@@ -1,5 +1,5 @@
 [theme]
-base="light"  # optional theme setting
+base="dark"  # optional theme setting
 
 [server]
 headless = true
@@ -7,3 +7,4 @@ headless = true
 [general]
 page_title = "Customer Review Sentiment Analyzer"
 page_icon = "📊" # emoji as icon
+appPageThumbnail = "IMAGES"
