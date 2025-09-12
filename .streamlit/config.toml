@@ -1,11 +1,9 @@
 [theme]
-base="light"
+base="light"  # optional theme setting
 
 [server]
 headless = true
 
-[ui]
-appPageTitle = "Customer Review Sentiment Analyzer"
-
-# Add this line for preview image:
-appPageThumbnail = "Customer-review-sentiment-analyzer-/blob/main/IMAGES/THUBMNAIL.png"
+[general]
+page_title = "Customer Review Sentiment Analyzer"
+page_icon = "📊" # emoji as icon
