@@ -4,7 +4,7 @@ A Streamlit web app that classifies Myntra customer reviews as Positive, Neutral
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cust-review-analyzer.streamlit.app/)
 
-![App Preview]((IMAGES/THUBMNAIL.png))
+![App Preview](IMAGES/THUBMNAIL.png)
 
 
 ## Features
