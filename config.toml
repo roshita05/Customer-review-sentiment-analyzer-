@@ -1,0 +1,11 @@
+[theme]
+base="light"
+
+[server]
+headless = true
+
+[ui]
+appPageTitle = "Customer Review Sentiment Analyzer"
+
+# Add this line for preview image:
+appPageThumbnail = "Customer-review-sentiment-analyzer-/blob/main/IMAGES/THUBMNAIL.png"
