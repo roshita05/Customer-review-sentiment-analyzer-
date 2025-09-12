@@ -2,6 +2,9 @@
 
 A Streamlit web app that classifies Myntra customer reviews as Positive, Neutral, or Negative using a fine-tuned BERT model.
 
+[![Open in Streamlit]()
+
+
 ## Features
 - Fine-tuned DistilBERT for e-commerce reviews
 - Single review and bulk CSV upload support
