@@ -7,4 +7,4 @@ headless = true
 [general]
 page_title = "Customer Review Sentiment Analyzer"
 page_icon = "📊" # emoji as icon
-appPageThumbnail = "Customer-review-sentiment-analyzer-/blob/main/IMAGES/THUBMNAIL.png"
+appPageThumbnail = "IMAGES/THUBMNAIL.png"
