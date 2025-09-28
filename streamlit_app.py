@@ -31,5 +31,5 @@ if uploaded_file is not None:
         st.dataframe(df)
         csv = df.to_csv(index=False).encode('utf-8')
         st.download_button("Download Predictions CSV", csv, "predicted_sentiments.csv", "text/csv")
-
-st.info("This app uses a fine-tuned BERT model (or pretrained fallback) to classify Myntra customer reviews.")
+ 
+st.info("This app uses a fine-tuned BERT model (or pretrained fallback) to classify customer reviews.")
